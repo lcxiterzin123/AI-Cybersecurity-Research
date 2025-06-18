@@ -6,7 +6,7 @@ White-paper &amp; talk covering benefits, risks, and mitigation frameworks for A
 Modern cybersecurity leans heavily on Artificial Intelligence, yet AI systems (especially LLMs) introduce *new* attack surfaces: prompt-injection, data poisoning, model bias, and more.  
 This project contains my peer-reviewed research paper **“Artificial Intelligence in Cybersecurity: Benefits, Risks & Mitigation”** plus an accompanying talk.
 
-📄 **Paper (PDF)** → [`Twining_ResearchPaper.pdf`]([Twining_ResearchPaper.pdf](https://github.com/user-attachments/files/20796514/Twining_ResearchPaper.pdf))
+📄 **Paper (PDF)** → [Twining_ResearchPaper.pdf](https://github.com/user-attachments/files/20796514/Twining_ResearchPaper.pdf)
 
 🎥 **Presentation (1 hr)** →
 
